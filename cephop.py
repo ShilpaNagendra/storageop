@@ -1,3 +1,7 @@
+r"""
+This script interacts with ceph object store to 
+save/retrieve objects.
+"""
 import swiftclient
 import argparse
 '''
